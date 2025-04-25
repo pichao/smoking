@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/smoking/static/js/main.21247423.js",
+    "main.css": "/smoking/static/css/main.ab2a5652.css",
+    "main.js": "/smoking/static/js/main.073090c4.js",
     "index.html": "/smoking/index.html",
-    "main.21247423.js.map": "/smoking/static/js/main.21247423.js.map"
+    "main.ab2a5652.css.map": "/smoking/static/css/main.ab2a5652.css.map",
+    "main.073090c4.js.map": "/smoking/static/js/main.073090c4.js.map"
   },
   "entrypoints": [
-    "static/js/main.21247423.js"
+    "static/css/main.ab2a5652.css",
+    "static/js/main.073090c4.js"
   ]
 }
