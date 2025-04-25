@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/smoking/static/js/main.dcd2b423.js",
+    "main.js": "/smoking/static/js/main.2c97b3f8.js",
     "index.html": "/smoking/index.html",
-    "main.dcd2b423.js.map": "/smoking/static/js/main.dcd2b423.js.map"
+    "main.2c97b3f8.js.map": "/smoking/static/js/main.2c97b3f8.js.map"
   },
   "entrypoints": [
-    "static/js/main.dcd2b423.js"
+    "static/js/main.2c97b3f8.js"
   ]
 }
