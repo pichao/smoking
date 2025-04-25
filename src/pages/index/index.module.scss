@@ -1,3 +1,108 @@
-.title{
+.container{
     display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    .title{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: 106px;
+        padding: 0 15px;
+        background-color: #000;
+        .text{
+            color: yellow;
+        }
+        .search{
+            background: #5a5b5c;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            padding: 0 12px;
+            height: 52px;
+            .searchIcon{
+                width: 36px;
+                height: 36px;
+                margin-right: 16px;
+            }
+            .searchInput{
+                width: 280px;
+                height: 45px;
+           font-size: 32px;
+            color: #bbb;
+            border: none;
+            background: transparent;
+            padding-top: 6px;
+            caret-color: #ccc;
+            &::placeholder {
+                font-weight: bold;
+                opacity: 0.5;
+                color: #ccc;
+                font-size: 28px;
+              }
+              &:focus{
+                border: none;
+                outline: none;
+               }
+            }
+         
+        }
+    }
+
+    .content{
+        flex: 1 1;
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        // background-color: red;
+        .brandTitle,.hotSmokeTitle{
+            border-left: 12px solid #d89306;
+            background-color: #f0f0f0;
+            height: 72px;
+            line-height: 72px;
+            padding-left: 12px;
+            color: #101010;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .brandCon{
+           
+            .brandContent{
+               display: flex;
+               flex-wrap: wrap;
+            //    align-items: center;
+               justify-content: space-between;
+                // height: 240px;
+                .brandLink{
+                    width: 22%;
+                    margin-bottom: 16px;
+                    .brandImg{
+                        width: 100%;
+                        height: fit-content;
+                    }
+                }
+                
+            }
+        }
+        .hotSmokeCon{
+            flex: 1 1;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            .hotSmokeContent{
+                flex: 1 1;
+                overflow-y: scroll;
+                // display: flex;
+                // align-items: center;
+                // justify-content: center;
+                
+                .hotSmokeItem{
+                    height: 100px;
+                }
+                }
+        }
+    }
+
+
 }
+

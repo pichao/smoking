@@ -1,4 +1,4 @@
 const About = ()=>{
-    return <div>about页面</div>
+    return <div>特定品牌香烟页面</div>
 }
 export default About

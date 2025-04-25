@@ -9,14 +9,13 @@ import NoMatch from './pages/noMatch'
 
 export default function App() {
   return (
-    <div>
-     {/* <div>{process.env.PUBLIC_URL}</div> */}
+    
 
      
       <Routes>
       <Route path="/" element={<Index />} />
-
-          <Route path="/about" element={<About />} />
+ {/* <div>{process.env.PUBLIC_URL}</div> */}
+          <Route path="/:brand" element={<About />} />
           {/* <Route path="dashboard" element={<Dashboard />} /> */}
 
           {/* Using path="*"" means "match anything", so this route
@@ -25,7 +24,6 @@ export default function App() {
           <Route path="*" element={<Index />} />
           {/* </Route> */}
       </Routes>
-    </div>
   );
 }
 
