@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smoking/static/css/main.b314e962.css",
-    "main.js": "/smoking/static/js/main.34026633.js",
+    "main.css": "/smoking/static/css/main.848a8653.css",
+    "main.js": "/smoking/static/js/main.03264267.js",
     "static/media/云烟黑金刚.png": "/smoking/static/media/云烟黑金刚.497ccdbf281e87731205.png",
     "static/media/huangjinye.png": "/smoking/static/media/huangjinye.23b81fe8f3f53b9fb81a.png",
     "static/media/shuangxi.jpg": "/smoking/static/media/shuangxi.0c77bec4cb693909524b.jpg",
@@ -12,11 +12,11 @@
     "static/media/yuxi.jpg": "/smoking/static/media/yuxi.a8502e91684b02c856cb.jpg",
     "static/media/liqun.jpg": "/smoking/static/media/liqun.43c64d4811192fe89237.jpg",
     "index.html": "/smoking/index.html",
-    "main.b314e962.css.map": "/smoking/static/css/main.b314e962.css.map",
-    "main.34026633.js.map": "/smoking/static/js/main.34026633.js.map"
+    "main.848a8653.css.map": "/smoking/static/css/main.848a8653.css.map",
+    "main.03264267.js.map": "/smoking/static/js/main.03264267.js.map"
   },
   "entrypoints": [
-    "static/css/main.b314e962.css",
-    "static/js/main.34026633.js"
+    "static/css/main.848a8653.css",
+    "static/js/main.03264267.js"
   ]
 }
