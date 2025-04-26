@@ -48,7 +48,50 @@
          
         }
     }
+    .buyWays{
+        .text{
+            border-left: 12px solid #d89306;
+            background-color: #f0f0f0;
+            height: 72px;
+            line-height: 72px;
+            padding-left: 12px;
+            color: #101010;
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .contacts{
+            display: flex;
+            padding: 12px 24px;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            .contactItem{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                width: 30%;
+                margin-bottom: 12px;
+                .icon{
+                    width: 56px;
+                    height: fit-content;
+                    margin-bottom: 12px;
+                }
+                .accountCon{
+                    display: flex;
+                    align-items: center;
+                    .copy{
+                        color: #ccc;
+                        margin-left: 8px;
+                        // border: blue($color: #000000);
+                    }
+                    // .copyIcon{
+                    //     width: 36px;
+                    //     height: fit-content;
+                    // }
+                }
 
+            }
+        }
+    }
     .content{
         flex: 1 1;
         display: flex;
@@ -97,7 +140,22 @@
                 // justify-content: center;
                 
                 .hotSmokeItem{
-                    height: 100px;
+                    display: flex;
+                    align-items: center;
+                    .smokingImg{
+                        width: 240px;
+                        height: fit-content;
+                    }
+                    .smokingInfo{
+                        .name,.des,.price{
+                            height: 48px;
+                            line-height: 48px;
+                            span{
+                                color: red;
+                                font-weight: 700;
+                            }
+                        }
+                    }
                 }
                 }
         }
