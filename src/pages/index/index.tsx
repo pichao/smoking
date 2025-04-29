@@ -48,6 +48,7 @@ const Index = ()=>{
                
             </div>
         </div>
+        <div className={styles.tips}>以下非全部香烟，详细请参照联系方式咨询</div>
         <div className={styles.content}>
             {/* <div className={styles.brandCon}>
             <div className={styles.brandTitle}>热门品牌</div>

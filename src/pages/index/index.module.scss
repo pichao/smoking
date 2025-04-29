@@ -92,6 +92,12 @@
             }
         }
     }
+    .tips{
+        height: 60px;
+        line-height: 60px;
+        color: red;
+        padding-left: 16px;
+    }
     .content{
         flex: 1 1;
         display: flex;

@@ -7,7 +7,7 @@ const data = [
     },
     {
         name: '黄鹤楼1916(粗支（硬香润珠）)',
-        price:'950马币/条',
+        price:'930马币/条',
         des:'6mg',//焦油含量
 
         smokingUrl:require('../smokes/黄鹤楼硬香润珠.jpg')
