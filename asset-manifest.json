@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/smoking/static/css/main.84525b4a.css",
-    "main.js": "/smoking/static/js/main.35fd6781.js",
+    "main.css": "/smoking/static/css/main.96fe9a87.css",
+    "main.js": "/smoking/static/js/main.ac5d6f9a.js",
     "static/media/钻石荷花.png": "/smoking/static/media/钻石荷花.312baf2ad0bba15b2e37.png",
     "static/media/云烟黑金刚.png": "/smoking/static/media/云烟黑金刚.497ccdbf281e87731205.png",
     "static/media/黄鹤楼软爆珠.png": "/smoking/static/media/黄鹤楼软爆珠.f5ced5d93e9a4b5dc9f2.png",
@@ -33,11 +33,11 @@
     "static/media/黄鹤楼硬香润珠.jpg": "/smoking/static/media/黄鹤楼硬香润珠.e4c3e1c486d2a4e7b6cf.jpg",
     "static/media/中华金装支.png": "/smoking/static/media/中华金装支.33c394dd49240f2117db.png",
     "index.html": "/smoking/index.html",
-    "main.84525b4a.css.map": "/smoking/static/css/main.84525b4a.css.map",
-    "main.35fd6781.js.map": "/smoking/static/js/main.35fd6781.js.map"
+    "main.96fe9a87.css.map": "/smoking/static/css/main.96fe9a87.css.map",
+    "main.ac5d6f9a.js.map": "/smoking/static/js/main.ac5d6f9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.84525b4a.css",
-    "static/js/main.35fd6781.js"
+    "static/css/main.96fe9a87.css",
+    "static/js/main.ac5d6f9a.js"
   ]
 }
