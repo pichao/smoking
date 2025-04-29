@@ -39,28 +39,28 @@ const data = [
         price:'900马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/和天下硬包粗支.jpg')
     },
     {
         name: '和天下(细支（硬包）)',
         price:'800马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/和天下细支硬包.jpg')
     },
     {
         name: '黄金叶天叶（粗支（硬包））',
         price:'900马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/黄金叶天叶粗支硬包.jpg')
     },
     {
         name: '黄金叶天叶（细支（硬包））',
         price:'900马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/黄金叶天叶细支.jpg')
     },
 
     {
@@ -98,63 +98,56 @@ const data = [
         price:'800马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/中华金装支.png')
     },
     {
         name: '软中华（粗支（软包））',
         price:'750马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/软中华.png')
     },
     {
         name: '中华双控（中支（硬包））',
         price:'500马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/中华双控.png')
     },
     {
         name: '中华细金边（细支（硬包））',
         price:'700马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/中华细金边.png')
     },
     {
         name: '硬中华（粗支（硬包））',
         price:'380马币/条',
         des:'8mg',//焦油含量
-
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/硬中华.png')
     },
     {
         name: '钻石荷花（粗支（硬包））',
         price:'330马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/钻石荷花.png')
     },
-    {
-        name: '钻石荷花（粗支（硬包））',
-        price:'330马币/条',
-        des:'8mg',//焦油含量
-
-        smokingUrl:require('../smokes/云烟黑金刚.png')
-    },
+   
     {
         name: '黄鹤楼侠骨柔情（粗支（硬包））',
         price:'330马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/黄鹤楼(硬侠骨柔情).png')
     },
     {
         name: '黄鹤楼侠骨柔情（细支（硬包））',
         price:'300马币/条',
         des:'8mg',//焦油含量
 
-        smokingUrl:require('../smokes/云烟黑金刚.png')
+        smokingUrl:require('../smokes/黄鹤楼峡谷柔情硬细支.png')
     },
 ]
 export default data
