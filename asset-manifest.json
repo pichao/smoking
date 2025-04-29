@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/smoking/static/css/main.84525b4a.css",
-    "main.js": "/smoking/static/js/main.b1cb321b.js",
+    "main.js": "/smoking/static/js/main.f79a5ddb.js",
     "static/media/云烟黑金刚.png": "/smoking/static/media/云烟黑金刚.497ccdbf281e87731205.png",
     "static/media/黄鹤楼软爆珠.png": "/smoking/static/media/黄鹤楼软爆珠.f5ced5d93e9a4b5dc9f2.png",
     "static/media/huangjinye.png": "/smoking/static/media/huangjinye.23b81fe8f3f53b9fb81a.png",
     "static/media/和天下细支硬包.jpg": "/smoking/static/media/和天下细支硬包.209964f1c861dc67cd36.jpg",
+    "static/media/软中华.png": "/smoking/static/media/软中华.5467bf7a943a84011a71.png",
+    "static/media/黄鹤楼峡谷柔情硬细支.png": "/smoking/static/media/黄鹤楼峡谷柔情硬细支.5ee1ce8f61024b0531c4.png",
     "static/media/黄鹤楼(硬侠骨柔情).png": "/smoking/static/media/黄鹤楼(硬侠骨柔情).14eb80307342a3cfc19f.png",
     "static/media/和天下硬白尊享.png": "/smoking/static/media/和天下硬白尊享.a8a0ee8d859551c0d759.png",
     "static/media/黄鹤楼硬平安.jpg": "/smoking/static/media/黄鹤楼硬平安.5ba9cb18ba57c177c900.jpg",
@@ -21,12 +23,13 @@
     "static/media/黄金叶天叶细支.jpg": "/smoking/static/media/黄金叶天叶细支.0ee706722bb06c3b6ce5.jpg",
     "static/media/liqun.jpg": "/smoking/static/media/liqun.43c64d4811192fe89237.jpg",
     "static/media/黄鹤楼硬香润珠.jpg": "/smoking/static/media/黄鹤楼硬香润珠.e4c3e1c486d2a4e7b6cf.jpg",
+    "static/media/中华金装支.png": "/smoking/static/media/中华金装支.33c394dd49240f2117db.png",
     "index.html": "/smoking/index.html",
     "main.84525b4a.css.map": "/smoking/static/css/main.84525b4a.css.map",
-    "main.b1cb321b.js.map": "/smoking/static/js/main.b1cb321b.js.map"
+    "main.f79a5ddb.js.map": "/smoking/static/js/main.f79a5ddb.js.map"
   },
   "entrypoints": [
     "static/css/main.84525b4a.css",
-    "static/js/main.b1cb321b.js"
+    "static/js/main.f79a5ddb.js"
   ]
 }
