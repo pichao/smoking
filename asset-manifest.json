@@ -1,11 +1,9 @@
 {
   "files": {
     "main.css": "/smoking/static/css/main.96fe9a87.css",
-    "main.js": "/smoking/static/js/main.157ddb3c.js",
+    "main.js": "/smoking/static/js/main.13a22a0c.js",
     "static/media/钻石荷花.png": "/smoking/static/media/钻石荷花.312baf2ad0bba15b2e37.png",
-    "static/media/云烟黑金刚.png": "/smoking/static/media/云烟黑金刚.497ccdbf281e87731205.png",
     "static/media/黄鹤楼软爆珠.png": "/smoking/static/media/黄鹤楼软爆珠.f5ced5d93e9a4b5dc9f2.png",
-    "static/media/huangjinye.png": "/smoking/static/media/huangjinye.23b81fe8f3f53b9fb81a.png",
     "static/media/和天下细支硬包.jpg": "/smoking/static/media/和天下细支硬包.209964f1c861dc67cd36.jpg",
     "static/media/软中华.png": "/smoking/static/media/软中华.5467bf7a943a84011a71.png",
     "static/media/硬中华.png": "/smoking/static/media/硬中华.356e9b3da1c50e602e82.png",
@@ -18,26 +16,19 @@
     "static/media/南京煊赫门.jpg": "/smoking/static/media/南京煊赫门.e69758236dff81acc24c.jpg",
     "static/media/南京九五细.png": "/smoking/static/media/南京九五细.d95f98f495d99da3e818.png",
     "static/media/细大重九.png": "/smoking/static/media/细大重九.55c835f54ffae20313cf.png",
-    "static/media/shuangxi.jpg": "/smoking/static/media/shuangxi.0c77bec4cb693909524b.jpg",
-    "static/media/huanghelou.jpg": "/smoking/static/media/huanghelou.d176c3119a64c2a44b09.jpg",
-    "static/media/nanjing.jpg": "/smoking/static/media/nanjing.79ab9e47ec8cdf3e95fd.jpg",
     "static/media/软大重九.png": "/smoking/static/media/软大重九.ea0b7c1d77ffbda2dad0.png",
-    "static/media/yunyan.jpg": "/smoking/static/media/yunyan.93cacf66e45dce9b944d.jpg",
-    "static/media/zhonghua.jpg": "/smoking/static/media/zhonghua.6ea1f54dc37ddcc27b32.jpg",
     "static/media/黄金叶天叶粗支硬包.jpg": "/smoking/static/media/黄金叶天叶粗支硬包.49f18895a816122f9bac.jpg",
     "static/media/和天下硬包粗支.jpg": "/smoking/static/media/和天下硬包粗支.6a76c0eac4d4065988db.jpg",
     "static/media/中华双控.png": "/smoking/static/media/中华双控.4fde940a879afa551508.png",
-    "static/media/yuxi.jpg": "/smoking/static/media/yuxi.a8502e91684b02c856cb.jpg",
     "static/media/黄金叶天叶细支.jpg": "/smoking/static/media/黄金叶天叶细支.0ee706722bb06c3b6ce5.jpg",
-    "static/media/liqun.jpg": "/smoking/static/media/liqun.43c64d4811192fe89237.jpg",
     "static/media/黄鹤楼硬香润珠.jpg": "/smoking/static/media/黄鹤楼硬香润珠.e4c3e1c486d2a4e7b6cf.jpg",
     "static/media/中华金装支.png": "/smoking/static/media/中华金装支.33c394dd49240f2117db.png",
     "index.html": "/smoking/index.html",
     "main.96fe9a87.css.map": "/smoking/static/css/main.96fe9a87.css.map",
-    "main.157ddb3c.js.map": "/smoking/static/js/main.157ddb3c.js.map"
+    "main.13a22a0c.js.map": "/smoking/static/js/main.13a22a0c.js.map"
   },
   "entrypoints": [
     "static/css/main.96fe9a87.css",
-    "static/js/main.157ddb3c.js"
+    "static/js/main.13a22a0c.js"
   ]
 }
