@@ -1,12 +1,12 @@
 
 const contacts = [
     {
-        account:'@fdgffdgd',
+        account:'@archie0809',
         url:require('../telegram.jpg'),
         name: 'telegram'
     },
     {
-        account:'@fdgffdgd',
+        account:'xyx1019685791',
         url:require('../weixin.png'),
         name: 'weixin'
     },
