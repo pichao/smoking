@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/smoking/static/css/main.96fe9a87.css",
-    "main.js": "/smoking/static/js/main.e3d0ec52.js",
+    "main.js": "/smoking/static/js/main.0695e721.js",
     "static/media/钻石荷花.png": "/smoking/static/media/钻石荷花.312baf2ad0bba15b2e37.png",
     "static/media/黄鹤楼软爆珠.png": "/smoking/static/media/黄鹤楼软爆珠.f5ced5d93e9a4b5dc9f2.png",
     "static/media/和天下细支硬包.jpg": "/smoking/static/media/和天下细支硬包.209964f1c861dc67cd36.jpg",
@@ -16,8 +16,10 @@
     "static/media/白利群.png": "/smoking/static/media/白利群.0e356db46f2bc39fcb70.png",
     "static/media/南京九五.jpg": "/smoking/static/media/南京九五.22a002eecbf63389ad13.jpg",
     "static/media/七匹狼红.jpg": "/smoking/static/media/七匹狼红.7092a322f1404fc04bc1.jpg",
+    "static/media/和天下软粗.png": "/smoking/static/media/和天下软粗.5e53618213bf61a1c507.png",
     "static/media/黄鹤楼硬平安.jpg": "/smoking/static/media/黄鹤楼硬平安.5ba9cb18ba57c177c900.jpg",
     "static/media/南京煊赫门.jpg": "/smoking/static/media/南京煊赫门.e69758236dff81acc24c.jpg",
+    "static/media/黄鹤楼奇景.png": "/smoking/static/media/黄鹤楼奇景.4deb45c8e284a42bee74.png",
     "static/media/南京九五细.png": "/smoking/static/media/南京九五细.d95f98f495d99da3e818.png",
     "static/media/细大重九.png": "/smoking/static/media/细大重九.55c835f54ffae20313cf.png",
     "static/media/七匹狼软灰.jpg": "/smoking/static/media/七匹狼软灰.fb5baad78c5cda7026c7.jpg",
@@ -32,10 +34,10 @@
     "static/media/中华金装支.png": "/smoking/static/media/中华金装支.33c394dd49240f2117db.png",
     "index.html": "/smoking/index.html",
     "main.96fe9a87.css.map": "/smoking/static/css/main.96fe9a87.css.map",
-    "main.e3d0ec52.js.map": "/smoking/static/js/main.e3d0ec52.js.map"
+    "main.0695e721.js.map": "/smoking/static/js/main.0695e721.js.map"
   },
   "entrypoints": [
     "static/css/main.96fe9a87.css",
-    "static/js/main.e3d0ec52.js"
+    "static/js/main.0695e721.js"
   ]
 }
