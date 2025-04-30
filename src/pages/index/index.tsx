@@ -31,7 +31,9 @@ const Index = ()=>{
            
            <div className={styles.search}>
                 <img src={require('@/assets/sobox-icon.png')} alt="search-icon" className={styles.searchIcon}/>
-                <input placeholder="香烟搜索" className={styles.searchInput}/>
+                <input placeholder="香烟搜索" className={styles.searchInput} onKeyUp={e=>{
+                    alert(e.keyCode)
+                }} type='search'/>
 
            </div>
                 

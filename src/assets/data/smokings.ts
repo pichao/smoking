@@ -1,7 +1,62 @@
 const data = [
     {
-        name: '南京(炫赫门)',
+        name: '黄鹤楼(软蓝)',
+        price:'220马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/利群国色天香硬.jpg')
+    },
+    {
+        name: '黄鹤楼(奇景)',
+        price:'320马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/黄鹤楼奇景.png')
+    },
+   
+    {
+        name: '黄芙蓉王(硬)',
+        price:'240马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/硬芙蓉王.png')
+    },
+    {
+        name: '七匹狼(软灰)',
+        price:'220马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/七匹狼软灰.jpg')
+    },
+    {
+        name: '七匹狼(红)',
         price:'180马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/七匹狼红.jpg')
+    },
+    {
+        name: '南京(金陵十二钗)',
+        price:'280马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/南京金陵十二钗.jpg')
+    },
+    {
+        name: '玉溪(软)',
+        price:'230马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/玉溪软.png')
+    },
+    {
+        name: '利群(国色天香硬)',
+        price:'300马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/利群国色天香硬.jpg')
+    },
+    {
+        name: '利群(白)',
+        price:'215马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/白利群.png')
+    },
+    {
+        name: '南京(炫赫门)',
+        price:'220马币/条',
         des:'8mg',//焦油含量
         smokingUrl:require('../smokes/南京煊赫门.jpg')
     },
@@ -47,6 +102,12 @@ const data = [
         des:'8mg',//焦油含量
 
         smokingUrl:require('../smokes/和天下细支硬包.jpg')
+    },
+    {
+        name: '和天下(软包粗)',
+        price:'900马币/条',
+        des:'8mg',//焦油含量
+        smokingUrl:require('../smokes/和天下软粗.png')
     },
     {
         name: '黄金叶天叶（粗支（硬包））',
@@ -95,14 +156,14 @@ const data = [
 
     {
         name: '中华金中支（中支（硬包））',
-        price:'850马币/条',
+        price:'800马币/条',
         des:'8mg',//焦油含量
 
         smokingUrl:require('../smokes/中华金装支.png')
     },
     {
         name: '软中华（粗支（软包））',
-        price:'750马币/条',
+        price:'680马币/条',
         des:'8mg',//焦油含量
 
         smokingUrl:require('../smokes/软中华.png')
@@ -129,7 +190,7 @@ const data = [
     },
     {
         name: '钻石荷花（粗支（硬包））',
-        price:'330马币/条',
+        price:'350马币/条',
         des:'8mg',//焦油含量
 
         smokingUrl:require('../smokes/钻石荷花.png')
