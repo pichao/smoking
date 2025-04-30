@@ -1,12 +1,9 @@
 import styles from  './index.module.scss'
-import brands from '@/assets/data/brand'
 import smokings from '@/assets/data/smokings'
 import contacts from '@/assets/data/contact'
-import {CopyToClipboard} from 'react-copy-to-clipboard';
 import ClipboardJS from 'clipboard'
 import { useEffect } from 'react';
 const Index = ()=>{
-    console.log(brands,'nnnnnnnnnnnnn')
 
     useEffect(()=>{
         var clipboard = new ClipboardJS('.copy');
@@ -16,10 +13,15 @@ const Index = ()=>{
           console.info('Action:', e.action);
           console.info('Text:', e.text);
           console.info('Trigger:', e.trigger);
-        
+            alert('复制成功')
           e.clearSelection();
         });
+        clipboard.on('error', function (e) {
+            console.log(e,'pppppppppppppp')
+            console.error('Action:', e.action);
+            console.error('Trigger:', e.trigger);
 
+          });
 
     },[])
     return <div className={styles.container}>
@@ -37,12 +39,11 @@ const Index = ()=>{
         <div className={styles.buyWays}>
             <div className={styles.text}>购买方式联系方式</div>
             <div className={styles.contacts}>
-                {contacts.map((o:any,index:number)=><div key={index} className={styles.contactItem}>
+                {contacts.map((o:any,index:number)=><div key={index} className={styles.contactItem} >
                     <img className={styles.icon} src={o.url} alt={o.name} />
-                    <div className={`${styles.accountCon} copy`}>
+                    <div className={`${styles.accountCon} copy`}  data-clipboard-text={o.account}>
                         <span className={styles.account}>{o.account}</span>
                         <span className={styles.copy}>复制</span>
-                        {/* <img className={styles.copyIcon} src={require('@/assets/copy.png')} alt="copy" /> */}
                         </div>
                 </div>)}
                

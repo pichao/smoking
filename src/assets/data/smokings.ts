@@ -95,7 +95,7 @@ const data = [
 
     {
         name: '中华金中支（中支（硬包））',
-        price:'800马币/条',
+        price:'850马币/条',
         des:'8mg',//焦油含量
 
         smokingUrl:require('../smokes/中华金装支.png')
